@@ -1,0 +1,41 @@
+terminal
+commands....
+cntrl +
+cntrl - increase and decrease the size of the terminal
+f11 reduce screen fit increase & decresa
+cd /abc -main directory
+pwd-present working directory
+cntrl l -clear screen
+cd-change directory
+mkdir-make directory
+cd/tmp-
+cd .
+cd ..
+mkdir-p   create subdirectory
+mkdir -p abc/123/xyz  create sub directory
+touch abc
+ls
+to go main ditrectory directly
+cd ../..
+cd - takes u tp the last working directory
+touch 456.txt > create a blank directory
+cat 456.txt> see content  of the file
+Linux editors vi nano vim
+vi 456.txt >opens a blank file(view insert delte &update mode-support 4 modes)
+click on i it will open in insert
+
+i-insert
+write some content
+click esc : wq enter to back
+also esc : q ! enter
+cat 456.txt show contenet in the file
+touch create file
+vi -open editer
+ls-list
+{touch kousalya
+ls -lart
+vi kousalya.txt 
+type......
+esc : wq enter
+cat *  >>>show content in the file
+cat > can write text}
